@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Thanh</h1>
 <h3 align="center">I'm a Fullstack Developer</h3>
 
-<a href="https://app.daily.dev/hoominth"><img src="https://api.daily.dev/devcards/f296cf54b0d24da894e993e89771b47d.png?r=378" width="400" alt="Hồ Minh Thành's Dev Card"/></a>
+<a href="https://app.daily.dev/hoominth"><img src="https://api.daily.dev/devcards/f296cf54b0d24da894e993e89771b47d.png?r=378" width="200" alt="Hồ Minh Thành's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
