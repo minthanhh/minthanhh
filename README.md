@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm a Frontend Develope</h1>
+<h1 align="center">Hi there, I'm a Frontend Developer</h1>
 
 <a href="https://app.daily.dev/hoominth"><img src="https://api.daily.dev/devcards/v2/GgBlwvIJTO1miS4LJWP17.png?r=acb" width="356" alt="Hồ Minh Thành's Dev Card"/></a>
 
@@ -9,8 +9,8 @@
 <p>
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minthanhh&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p></p>
+<h3 align="left">Techstacks:</h3>
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="40" height="40" />
@@ -27,3 +27,9 @@
         alt="docker" width="40" height="40" />
 </p>
 </div>
+
+
+
+
+
+
