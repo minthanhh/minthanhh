@@ -26,3 +26,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
         alt="docker" width="40" height="40" />
 </p>
+
+<p>
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minthanhh&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
